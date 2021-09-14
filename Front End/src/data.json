@@ -1,0 +1,33 @@
+[
+    {
+        "userId": "X",
+        "amount": 100,
+        "date": "2020-09-15"
+    },
+    {
+        "userId": "Y",
+        "amount": 200,
+        "date": "2020-08-15"
+    },
+    {
+        "userId": "X",
+        "amount": 50,
+        "date": "2021-09-18"
+    },
+    {
+        "userId": "Z",
+        "amount": 55,
+        "date": "2021-05-18"
+    },
+    {
+        "userId": "X",
+        "amount": 50,
+        "date": "2021-10-18"
+    },
+    {
+        "userId": "A",
+        "amount": 60,
+        "date": "2021-05-19"
+    }
+]
+ 
